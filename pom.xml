@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.exercise</groupId>
-	<artifactId>jsf-login</artifactId>
+	<artifactId>primeface-login</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 
